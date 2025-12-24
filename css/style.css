@@ -895,3 +895,89 @@ footer i{
   margin-bottom: 8px;
   line-height: 1.5;
 }
+
+/* Large desktops (default styles) */
+/* No media query needed */
+
+/*  Tablets & small laptops */
+@media (max-width: 1024px) {}
+
+/*  Mobile devices */
+@media (max-width: 768px) {}
+
+/*  Small phones */
+@media (max-width: 480px) {}
+
+
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .home {
+    flex-direction: column;
+    text-align: center;
+    padding: 40px 20px;
+  }
+
+  .home-img {
+    width: 220px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .skills-container {
+    padding: 20px;
+  }
+
+  .skill-bar {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .input-box {
+    flex-direction: column;
+  }
+
+  .input-box input {
+    width: 100%;
+  }
+
+  textarea {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 26px;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .social-media {
+    justify-content: center;
+  }
+}
