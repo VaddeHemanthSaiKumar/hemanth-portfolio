@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my projects, skills, and experience as an aspiring Data Analyst.
 
 ## 🔗 Live Website
-https://USERNAME.github.io/hemanth-portfolio/
+https://vaddehemanthsaikumar.github.io/hemanth-portfolio/
 
 ## 📌 About
 This portfolio highlights hands-on projects in SQL, Power BI, and data analytics.  
@@ -16,9 +16,10 @@ It is built to demonstrate practical skills, clean structure, and real-world pro
 
 ## 📂 Sections
 - Home  
-- About Me  
-- Skills  
+- About Me
 - Projects  
+- Skills  
+- Education  
 - Contact  
 
 ## 📊 Featured Projects
@@ -31,12 +32,19 @@ It is built to demonstrate practical skills, clean structure, and real-world pro
 
 ## 📁 Project Structure
 hemanth-portfolio/
+
 ├── index.html
+
 ├── assets/
+
 │ ├── images/
+
 │ ├── css/
+
 │ ├── js/
+
 │ └── resume/
+
 └── README.md
 
 
@@ -50,8 +58,9 @@ Steps:
 4. Save and access the live URL
 
 ## 📬 Contact
-- GitHub: https://github.com/USERNAME  
-- LinkedIn: https://www.linkedin.com/in/USERNAME  
+- GitHub: https://github.com/VaddeHemanthSaiKumar 
+- LinkedIn: https://www.linkedin.com/in/vadde-hemanth-sai-kumar/
 
 ---
 © 2025 Hemanth Sai Kumar
+
